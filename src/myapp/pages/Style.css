@@ -1,0 +1,11 @@
+.border-list{
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 1px;
+	padding-bottom: 2px;
+    height: 150px;;
+}
+
+.pad-list{
+	padding: 3px;
+}
